@@ -1,0 +1,12 @@
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec\Lab9_Events_Exec\bin\Debug\Lab9_Events_Exec.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec\Lab9_Events_Exec\bin\Debug\Lab9_Events_Exec.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec\Lab9_Events_Exec\obj\Debug\Lab9_Events_Exec.csprojAssemblyReference.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec\Lab9_Events_Exec\obj\Debug\Lab9_Events_Exec.csproj.CoreCompileInputs.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec\Lab9_Events_Exec\obj\Debug\Lab9_Events_Exec.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec\Lab9_Events_Exec\obj\Debug\Lab9_Events_Exec.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec - Copy\Lab9_Events_Exec\bin\Debug\Lab9_Events_Exec.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec - Copy\Lab9_Events_Exec\bin\Debug\Lab9_Events_Exec.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec - Copy\Lab9_Events_Exec\obj\Debug\Lab9_Events_Exec.csprojAssemblyReference.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec - Copy\Lab9_Events_Exec\obj\Debug\Lab9_Events_Exec.csproj.CoreCompileInputs.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec - Copy\Lab9_Events_Exec\obj\Debug\Lab9_Events_Exec.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab9_Exercise\Lab9_Events_Exec - Copy\Lab9_Events_Exec\obj\Debug\Lab9_Events_Exec.pdb

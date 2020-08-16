@@ -1,0 +1,16 @@
+﻿************ NOTE & PROGRESS REPORT *************
+
+
+### EVERYTHING SOLVED ALREADY 
+1. When OnLoaded Event happened Document/ActiveDocument is a null state
+2. Application's Event ActiveDocumentChanged can be subscribed, and \
+   SelectionChanged Event can be subscribed via ActiveDocumentChanged Event
+
+
+
+
+## TODO
+
+create two GIFs 
+1. Show without messageboxes - seamless
+2. Show with messageboxes - all events
